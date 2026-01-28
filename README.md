@@ -7,7 +7,7 @@ This repository is a demo of the Shopify Headless Commerce architecture. It incl
 * Custom Front-End: Fast and dynamic UI using React, Next.js, Gatsby, or Hydrogen (change this depending on your technology).
 * Storefront API Integration: Direct connection to Shopify's API to manage products, collections, and checkout.
 * **SEO Optimized:** (if applicable)
-* **Performance:** (mention Lighthouse score if applicable)<img width="1422" height="964" alt="Shopify Hydrogen, React, GraphQL" src="https://github.com/user-attachments/assets/9dd0caa8-b739-48ff-9781-d1c7b23adfd1" />
+* **Performance:** (mention Lighthouse score if applicable)
 
 
 ## 🛠️ Technologies Used (Tech Stack)
@@ -50,11 +50,8 @@ To insert images into the README file, you must use **Markdown** syntax.
 
 ### **Syntax:**
 
+<img width="1422" height="964" alt="Shopify Hydrogen, React, GraphQL" src="https://github.com/user-attachments/assets/9dd0caa8-b739-48ff-9781-d1c7b23adfd1" />
+
 ```markdown
-!(URL-or-path-to-your-image)
-
-Hey, write it in English, only then will the client understand.
-
-<img width="1422" height="964" alt="Shopify Hydrogen, React, GraphQL" src="https://github.com/user-attachments/assets/048e840d-a0b2-43c6-95e8-83006a27cd73" />
 
 
