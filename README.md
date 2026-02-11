@@ -54,4 +54,5 @@ To insert images into the README file, you must use **Markdown** syntax.
 
 ```markdown
 
+<img width="1632" height="1304" alt="carbon" src="https://github.com/user-attachments/assets/69b3ae83-cbbd-428f-af34-e7cc4c8e493e" />
 
