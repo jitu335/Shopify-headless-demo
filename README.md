@@ -50,7 +50,7 @@ To insert images into the README file, you must use **Markdown** syntax.
 
 ### **Syntax:**
 
-<img width="1422" height="964" alt="Shopify Hydrogen, React, GraphQL" src="https://github.com/user-attachments/assets/9dd0caa8-b739-48ff-9781-d1c7b23adfd1" />
+<img width="1632" height="1304" alt="carbon" src="https://github.com/user-attachments/assets/69b3ae83-cbbd-428f-af34-e7cc4c8e493e" />
 
 ```markdown
 
